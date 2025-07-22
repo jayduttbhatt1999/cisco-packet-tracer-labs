@@ -19,6 +19,9 @@ Each lab folder contains:
 | [Lab 15 – Cisco Device Management](./Lab15-Cisco-Device-Management) | Factory reset, password recovery, config/image backup, IOS upgrade |
 | [Lab 16 – The Cisco Troubleshooting Methodology](./Lab16-Cisco-Troubleshooting) | Troubleshooting DNS connectivity, interface issues, misconfiguration detection |
 | [Lab 17 – Dynamic Routing Protocols](./Lab17-Dynamic-Routing-Protocols) | RIP, EIGRP, OSPF setup, dynamic route exchange, convergence |
+| [Lab 18 – Connectivity Troubleshooting](./Lab18-Connectivity-Troubleshooting) | Troubleshooting static routes, ping, traceroute, route verification and fixes |
+| [Lab 19-1 – IGP Interior Gateway Protocol Fundamentals Configuration](./Lab19-IGP-Configuration) | Configuring RIPv2 and EIGRP, passive interfaces, default routes, routing table verification |
+
 
 
 ---
