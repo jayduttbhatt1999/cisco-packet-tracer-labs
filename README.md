@@ -1,56 +1,48 @@
-# Cisco Packet Tracer Labs 🚀
+# Lab 12 – The Life of a Packet: DNS & ARP Discovery
 
-Welcome to my curated collection of Cisco Packet Tracer labs, developed as part of my hands-on learning journey while preparing for the **CCNA (Cisco Certified Network Associate)** certification. This repository showcases my practical understanding of core networking concepts through simulated environments using Cisco Packet Tracer.
+> 📅 Lecture: 12  
+> 🧠 Focus: DNS Resolution & ARP Process  
+> 🧪 Simulator: Cisco Packet Tracer v8.2+  
 
-Each lab folder contains:
-- ✅ A **.pkt file** ready to be opened in Cisco Packet Tracer
-- 📘 A **README.md** file explaining the topology, configurations, and learning outcomes
+## 📝 Objective  
+Understand how a packet travels through a network from source to destination by analyzing each layer of the communication process — including DNS resolution and ARP discovery — using ICMP (ping) as a test method.
 
----
+## 🗺️ Topology  
+- 🖥️ PC-A (DNS Client)  
+- 🖥️ PC-B (Web Server)  
+- 🌐 DNS Server  
+- 🛣️ 2 Routers (R1 & R2)  
+- 🧩 Switches connecting PCs to Routers  
 
-## 📂 Lab Categories
+## ⚙️ Key Configurations  
+- IP address configuration on all devices  
+- Static routing between routers  
+- DNS client setup on PC-A  
+- Hostname mapping on DNS Server  
+- ARP inspection before and after ping  
+- Use of `ping`, `arp -a`, and DNS tools for observation  
 
-| Lab Title                       | Key Topics Covered                                 |
-|--------------------------------|----------------------------------------------------|
-| [Lab 11 – Static Routing](./Lab11-Static-Routing) | Manual static route configuration, IP addressing, connectivity testing |
+## 🔧 Commands Example
 
+```bash
+PC> ping webserver.local
+R1(config)# ip host webserver.local 192.168.2.10
+R2# show ip arp
+PC> arp -a
+```
 
+## 🔍 Learning Outcomes  
+- ✅ How DNS translates a hostname to an IP address  
+- ✅ How ARP discovers the MAC address of a destination  
+- ✅ How to inspect ARP tables and observe changes  
+- ✅ Layer-by-layer understanding of packet movement  
+- ✅ Gained troubleshooting practice using real-time tools  
 
-## 🧠 What You’ll Find
-
-- 🔧 Real-world inspired **topologies** simulating enterprise networks
-- 🧾 **Step-by-step configurations** of routers, switches, and PCs
-- 🧪 **Troubleshooting and verification** commands (`show ip route`, `ping`, `traceroute`, etc.)
-- 🎓 Labs aligned with **CCNA exam objectives**
-
----
-
-## 💻 Tools & Technologies
-
-- **Cisco Packet Tracer v8.2+**
-- Basic CLI configuration for Cisco routers and switches
-- Subnetting, IP addressing, VLANs, routing protocols, and more
-
----
-
-## 🎯 Goals
-
-- Demonstrate practical CCNA-level networking skills
-- Build a professional portfolio of configuration-based labs
-- Make complex topics easier to understand through visual simulation
-
----
-
-## 📫 Contact
-
-If you’d like to collaborate or have questions about any lab:
-- 🔗 GitHub: [@jayduttbhatt1999](https://github.com/jayduttbhatt1999)
-- 📧 Email: [jaydutt1999@gmail.com]
+## 🧠 Skills Strengthened  
+- Network protocol analysis  
+- Hands-on DNS/ARP behavior  
+- Cisco CLI navigation  
+- Packet lifecycle troubleshooting  
+- Understanding protocol dependencies
 
 ---
-> ⚠️ **Note**: All labs are built and tested in Cisco Packet Tracer version 8.2. Ensure you’re using a compatible version for best results.
-
----
-
-⭐️ Star this repository if you find it useful!  
-🎯 [Follow me on GitHub](https://github.com/jayduttbhatt1999) for more projects!
