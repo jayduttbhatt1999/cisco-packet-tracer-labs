@@ -18,6 +18,7 @@ Each lab folder contains:
 | [Lab 14 – Cisco Router and Switch Basics](./Lab14-Router-Switch-Basics) | Basic switch/router setup, CDP verification, speed/duplex troubleshooting |
 | [Lab 15 – Cisco Device Management](./Lab15-Cisco-Device-Management) | Factory reset, password recovery, config/image backup, IOS upgrade |
 | [Lab 16 – The Cisco Troubleshooting Methodology](./Lab16-Cisco-Troubleshooting) | Troubleshooting DNS connectivity, interface issues, misconfiguration detection |
+| [Lab 17 – Dynamic Routing Protocols](./Lab17-Dynamic-Routing-Protocols) | RIP, EIGRP, OSPF setup, dynamic route exchange, convergence |
 
 
 ---
