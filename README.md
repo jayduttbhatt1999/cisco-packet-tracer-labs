@@ -16,6 +16,7 @@ Each lab folder contains:
 | [Lab 12 – The Life of a Packet](./Lab12-Life-of-a-Packet) | DNS client config on routers, ARP cache, ping path analysis |
 | [Lab 13 – The Cisco Troubleshooting Methodology](./Lab13-Cisco-Troubleshooting) | Troubleshooting DNS connectivity, interface issues, misconfiguration detection |
 | [Lab 14 – Cisco Router and Switch Basics](./Lab14-Router-Switch-Basics) | Basic switch/router setup, CDP verification, speed/duplex troubleshooting |
+| [Lab 15 – Cisco Device Management](./Lab15-Cisco-Device-Management) | Factory reset, password recovery, config/image backup, IOS upgrade |
 
 ---
 
