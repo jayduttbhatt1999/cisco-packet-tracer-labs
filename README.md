@@ -13,6 +13,7 @@ Each lab folder contains:
 | Lab Title                       | Key Topics Covered                                 |
 |--------------------------------|----------------------------------------------------|
 | [OSPF Routing](./OSPF-Routing) | Multi-area OSPF, neighbor adjacency, route tables |
+| [Static Routing Configuration] (./lab11-static-routing) | manually configure static routes between routers to enable communication between different networks |
 
 
 
