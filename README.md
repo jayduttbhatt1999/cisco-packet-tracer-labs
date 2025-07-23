@@ -24,7 +24,7 @@ Each lab folder contains:
 | [Lab 20-1 – OSPF Single Area Configuration](./lab-20-1-ospfv2) | OSPFv2 setup, single-area design, router ID, route propagation, verification |
 | [Lab 22-1 – VLAN and Inter-VLAN Routing Configuration](./Lab22-VLAN-InterVLAN-Routing) | VLAN creation, VTP server/client, trunk ports, native VLAN, inter-VLAN routing via router-on-a-stick, SVIs |
 | [Lab 23-1 – DHCP Configuration](./Lab23-1-DHCP-Configuration) | DHCP setup on router, IP address pools, excluded addresses, lease time, DHCP bindings, and client verification |
-| [Lab 24-1 – HSRP Configuration](./Lab24-HSRP-Configuration) | Basic HSRP setup, virtual IP and MAC addresses, priority and preemption configuration, failover testing |
+| [Lab 24-1 – HSRP Configuration](./Lab24-1-HSRP-Configuration) | Basic HSRP setup, virtual IP and MAC addresses, priority and preemption configuration, failover testing |
 
 
 
