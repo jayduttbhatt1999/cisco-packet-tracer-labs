@@ -23,6 +23,7 @@ Each lab folder contains:
 | [Lab 19-1 – IGP Interior Gateway Protocol Fundamentals Configuration](./Lab19-IGP-Configuration) | Configuring RIPv2 and EIGRP, passive interfaces, default routes, routing table verification |
 | [Lab 20-1 – OSPF Single Area Configuration](./lab-20-1-ospfv2) | OSPFv2 setup, single-area design, router ID, route propagation, verification |
 | [Lab 22-1 – VLAN and Inter-VLAN Routing Configuration](./Lab22-VLAN-InterVLAN-Routing) | VLAN creation, VTP server/client, trunk ports, native VLAN, inter-VLAN routing via router-on-a-stick, SVIs |
+| [Lab 23-1 – DHCP Configuration](./Lab23-1-DHCP-Configuration) | DHCP setup on router, IP address pools, excluded addresses, lease time, DHCP bindings, and client verification |
 
 
 
