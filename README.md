@@ -27,7 +27,9 @@ Each lab folder contains:
 | [Lab 24-1 – HSRP Configuration](./Lab24-1-HSRP-Configuration) | Basic HSRP setup, virtual IP and MAC addresses, priority and preemption configuration, failover testing |
 | [Lab 26-1 – EtherChannel Configuration](./Lab26-etherchannel-configuration) | LACP, PAgP, and static EtherChannel setup; Layer 3 EtherChannel with IP addressing; OSPF routing integration; spanning tree behavior with EtherChannel |
 | [Lab 27-1 – Port Security Configuration](./Lab27-port-security) | Disable unused switch ports, configure port security with static MAC addresses, verify MAC address learning and port security status, prevent unauthorized network access |
-| [Lab 28 – Advanced EIGRP Topology & Optimization](./Lab28-eigrp-advanced-topology) | EIGRP with loopback interfaces, multi-router configuration, neighbor verification, route propagation |  
+| [Lab 28 – Advanced EIGRP Topology & Optimization](./Lab28-eigrp-advanced-topology) | EIGRP with loopback interfaces, multi-router configuration, neighbor verification, route propagation |
+| [Lab 29-1 – NAT Configuration](./Lab29-nat-configuration) | Static NAT for web server, dynamic NAT with address pool, PAT using interface IP, DHCP WAN configuration, NAT table/debug analysis |
+
 
 
 ---
