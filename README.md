@@ -29,6 +29,7 @@ Each lab folder contains:
 | [Lab 27-1 – Port Security Configuration](./Lab27-port-security) | Disable unused switch ports, configure port security with static MAC addresses, verify MAC address learning and port security status, prevent unauthorized network access |
 | [Lab 28 – Advanced EIGRP Topology & Optimization](./Lab28-eigrp-advanced-topology) | EIGRP with loopback interfaces, multi-router configuration, neighbor verification, route propagation |
 | [Lab 29-1 – NAT Configuration](./Lab29-nat-configuration) | Static NAT for web server, dynamic NAT with address pool, PAT using interface IP, DHCP WAN configuration, NAT table/debug analysis |
+| [Lab 30 – Static Route with Exit Interface](./Lab30-static-route-exit-interface) | Static routes configured with interface names for simplified next-hop routing | 
 
 
 
