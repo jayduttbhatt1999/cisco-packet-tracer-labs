@@ -26,7 +26,7 @@ Each lab folder contains:
 | [Lab 23-1 – DHCP Configuration](./Lab23-1-DHCP-Configuration) | DHCP setup on router, IP address pools, excluded addresses, lease time, DHCP bindings, and client verification |
 | [Lab 24-1 – HSRP Configuration](./Lab24-1-HSRP-Configuration) | Basic HSRP setup, virtual IP and MAC addresses, priority and preemption configuration, failover testing |
 | [Lab 26-1 – EtherChannel Configuration](./Lab26-etherchannel-configuration) | LACP, PAgP, and static EtherChannel setup; Layer 3 EtherChannel with IP addressing; OSPF routing integration; spanning tree behavior with EtherChannel |
-
+| [Lab 27-1 – Port Security Configuration](./Lab27-port-security) | Disable unused switch ports, configure port security with static MAC addresses, verify MAC address learning and port security status, prevent unauthorized network access |
 
 
 
